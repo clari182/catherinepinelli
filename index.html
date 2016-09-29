@@ -15,7 +15,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-    <link href="css/freelancer.min.css" rel="stylesheet">
+    <link href="css/freelancer.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -41,23 +41,23 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">Catherine Pinelli</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
+                    <li class="page-scroll">
+                        <a href="#page-top">Home</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#portfolio">Mon parcours</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="#about">Mes mentors</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Contact</a>
+                        <a href="#contact">Le cabinet</a>
                     </li>
                 </ul>
             </div>
@@ -69,15 +69,30 @@
     <!-- Header -->
     <header>
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
-                    <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
-                        <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
-                    </div>
+            <!--<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
                 </div>
+            </div>-->
+            <div class="row">
+                <div class="col-lg-8 align-left">
+                    <p>Vous cherchez un thérapeute qui s'occupe de la santé de vos enfant. </br> Vous cherchez un thérapeute qui s'occupe de la sante et du bien être de toute la famille. </br> Vous cherchez un thérapeute qui soit disponible 24h sur 24h avec un cabinet de consultation ouvert 7 jours sur 7 et toujours joignable par téléphone. </br>
+					Moi, Docteur Catherine Pinelli, je vous propose tout cela, comme votre pédiatre et médecin de famille, n'hésitant pas a aller a domicile si nécessaire et consultant aussi a Punta Del Este. 
+					En tant qu'expatriée moi-même je comprends ce statut particulier, qui englobe un sentiment de solitude où  l'on se sent un peu perdu. 
+					Exerçant depuis plus de 15 en Uruguay, je me suis aussi constitué un réseau de professionnels de santé, souvent francophone.  Dus a la barrière linguistique je n'hésite pas a prendre des RDV pour vous ainsi que pour en raccourcir les délais .
+					Je travaille pour les assurance Blue Cross, SUMUM et toutes le assurances international. Mes honoraires sont accessibles et s'ajuste au mieux aux remboursement du patient. 
+					Je suis parfaitement bilingue français/espagnol et parle un anglais médical très correct. 
+					</p>
+                </div>
+                <div class="col-lg-2">
+                	<img class="homeimg" src="img/catherine.jpeg"/>
+                </div>
+                <!--<div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="#" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Theme
+                    </a>
+                </div>-->
             </div>
         </div>
     </header>
@@ -87,70 +102,34 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Mon parcous</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
-                    </a>
+                <div class="col-lg-12">
+                    <p>
+                    •	Diplôme de médecine obtenus á Buenos Aires (UBA)
+					•	Equivalence de ce diplôme obtenu par la France
+					•	Diplôme de spécialiste en pédiatrie et en néonatologie de l'Université René Descartes de Paris V
+					•	Médecin Sans Frontières: Coordinatrice d'une mission á Colomoncagua, Honduras et Guatemala City, Guatemala.
+					•	Equivalence obtenu par L'Uruguay, pour le diplôme de médecin et pour le diplôme de pédiatre (Universidad de la Republica)
+					•	Certificat de capacitation en réanimation pédiatrique avancée - Pediatrics life support, American Acadamy of Pediatrics
+					•	Ouverture d'un cabinet privé
+					•	Médecin conseil de l'ambassade de France a Montevideo
+					•	Engagée par l'assurance Blue Cross d'Uruguay
+					•	Engagée par l'assurance SUMUM d'Uruguay
+					•	Medical Advisor TOTAL Uruguay
+					•	Diplôme d'homéopathie, Laboratoire BOIRON, France
+					•	Spécialité de Pneumo pédiatrie, Université de Nice, France
+					•	Spécialité de Médecin de Famille, Montréal, Canada
+					Travaux Effectué
+					•	Effet de l'ACYCLOVIR dans le traitement de la varicelle et du zona chez les enfants immunodéprimés, Institut Gustave Roussy, France
+					•	Coordination de la première étude européenne de la phase I et II du vaccin varicelle-zona chez les enfants atteint d'immunodéficience, Institut Gustave Roussy, France  (travail présenté durant la réunion annuelle de la Société International d'Oncologie Pédiatrique : Barcelone)
+					•	Doctorat: Pathologie rencontrée, travail et organisation d'un camp de refugiés a Colomoncagua, Honduras.
+					•	Coordination et supervision d'événements médicaux a TOTAL Uruguay de 2000 a 2016.
+
+                    </p>	
                 </div>
             </div>
         </div>
@@ -161,21 +140,62 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About</h2>
+                    <h2>Mes mentors</h2>
                     <hr class="star-light">
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
+                <div class="col-lg-12">
+                    <p>
+                    -	Professeur Bernard Caille ancien chef de service en pédiatrie, GROUPE HOSPITALIER PITIÉ - SALPETRIERE
+					"Les qualités et l'expérience de Mme Catherine PINELLI lui on valu d'être rapidement désignée pour occuper l'un de ces postes. (Pédiatre d'une des deux maternités). Le travail qu'elle a effectue a la Maternité a été particulièrement apprécié".
+
+					-	Docteur Daniel LEROY, Chef de Service de Pédiatrie, CENTRE HOSPITALIER DE COMPIEGNE.
+"Mme PINELLI a travaillé non seulement avec assiduité et efficacité mais elle a fait preuve aussi de qualités humaine indispensables a la fonction de pédiatre. Je n'ai donc eu qu'a me louer de sa collaboration. Elle a laisse un très bon souvenir, aussi bien dans ma mémoire que celle de mes collaborateurs."
+
+-	Professeur Jean Rey, Ministre de l'Education nationale, de la recherche et de la technologie. (Ancien directeur de l'enseignement de Pédiatrie).
+"Madame PINELLI a fait preuve de toutes les qualités médicales et humaines que l'on peut attendre d'un pédiatre en formation. Mon avis est extrêmement favorable"
+
+-	Docteur Jean LAVAUD, responsable du Service Mobile d'Urgence et de Réanimation Pédiatrique de l'Hôpital Necker-Enfants Malades (SAMU de Paris). 
+"Ce médecin nous a donné toute satisfaction dans son travail; la qualité de sa participation au service d'urgence mobile pédiatrique et son dévouement rend bien compte de son intérêt pour cet aspect tres particulier de la pédiatrie mais indispensable pour sa pratique."
+
+-	Professeur Jean LEMERLE, Directeur de l'Ecole de Cancérologie, Institut Gustave-Roussy.
+"Madame Catherine PINELLI, Pédiatre, a travaillé a mi temps a l'étude d'un vaccin anti-varicelle chez l'enfant atteint d'affection maligne et immunodéprimé par chimiothérapie. Ce travail a été mené a son terme et ses conclusions on été présentées a la réunion annuelle de la Société International d'Oncologie Pédiatrique a Barcelone. Elle a également travaille sur l'effet de l'Acyclovir, toujours dans le cadre de la varicelle et du zona chez les enfants immunodéprimés.
+Le travail, la rigueur scientifique et la ponctualité de Madame PINELLI on été appréciés pendant toute la période de son activité dans le service."
+
+
+-	Docteur Sophie LEMERLE, Professeur Adjoint Pédiatrie, CENTRE HOSPITALIER INTERCOMMUNAL DE CRETEIL.
+"Mme le Docteur Catherine PINELLI a coordonné l'essai de phase I et Ii du vaccin varicelle chez l'enfant immunodéprimé. C'était la première étude européenne. Elle a mené son travail avec beaucoup de compétence et de conscience professionnelle dans une population d'enfant éprouvés par le cancer."
+
+
+-	Professeur Jean CANET, Service de Réanimation néonatale, 
+CENTRE HOSPITALIER DE CRETEIL.
+"Madame Catherine PINELLI ayant déjà acquis des connaissances et une pratique antérieure, elle s'est adaptée rapidement aux contraintes de ce service et a fait preuve de dévouement, d'équilibre et de disponibilité. 
+
+
+-	Docteur Olivier MAUREL,
+ Médecin Sans Frontières.
+"Le Docteur Catherine PINELLI a été officiellement mandatée par notre association pour effectuer une mission en qualité de médecin volontaire. Elle a occupé le post de coordinatrice médical du camp de réfugiés salvadoriens (8000 personnes) a Colomoncaguas, Honduras. 
+
+
+-	Docteur Xavier EMMANUELLI, 
+Président, co-fondateur de Médecins Sans Frontières
+"Je certifie que Madame Catherine PINELLI, a occupé avec compétences et dévouement le poste de Médecin Sans Frontières. Je recommande, Madame Catherine PINELLI, pour sa qualité professionnelle et la loyauté de son engagement."
+
+
+-	Professeur F. SEBAG,  Chef de Service Pédiatrie,
+CENTRE HOSPITALIER DE CANNES
+"Je certifie que Madame PINELLI , a eu des rapport confraternels excellents avec le service."
+
+
+-	Dr. Osvaldo Bello
+Département d'Urgence Pédiatrique
+CENTRE HOSPITALIER PEREIRA ROSSELL, Montevideo
+"Le Docteur Catherine Pinelli a démontré une assiduité pour la spécialité et une bonne intégration a l'équipe de soins du service, assistant en plus aux réunions scientifiques."
+
+
+
+                    </p>	
                 </div>
             </div>
         </div>
