@@ -1,0 +1,137 @@
+{
+	"title": "Dr. Catherine Pinelli",
+	"home1": "Vous cherchez un thérapeute qui s'occupe de la santé de vos enfant.",
+	"home2": "Vous cherchez un thérapeute qui s'occupe de la sante et du bien être de toute la famille.",
+	"home3": "ous cherchez un thérapeute qui soit disponible 24h sur 24h avec un cabinet de consultation ouvert 7 jours sur 7 et toujours joignable par téléphone.",
+	"home4": "Moi, Docteur Catherine Pinelli, je vous propose tout cela, comme votre pédiatre et médecin de famille, n'hésitant pas a aller a domicile si nécessaire et consultant aussi a Punta Del Este.",
+	"home5": "En tant qu'expatriée moi-même je comprends ce statut particulier, qui englobe un sentiment de solitude où  l'on se sent un peu perdu.",
+	"home6": "Exerçant depuis plus de 15 en Uruguay, je me suis aussi constitué un réseau de professionnels de santé, souvent francophone.  Dus a la barrière linguistique je n'hésite pas a prendre des RDV pour vous ainsi que pour en raccourcir les délais .",
+	"home7": "Je travaille pour les assurance Blue Cross, SUMUM et toutes le assurances international. Mes honoraires sont accessibles et s'ajuste au mieux aux remboursement du patient. ",
+	"home8": "Je suis parfaitement bilingue français/espagnol et parle un anglais médical très correct. ",
+	"parcours": "Mon parcours",
+	"studies":  [
+		{
+			"text": "Diplôme de médecine obtenus á Buenos Aires (UBA)"
+		},
+		{
+			"text": "Equivalence de ce diplôme obtenu par la France"
+		},
+		{
+			"text": "Diplôme de spécialiste en pédiatrie et en néonatologie de l'Université René Descartes de Paris V"
+		},
+		{
+			"text": "Médecin Sans Frontières: Coordinatrice d'une mission á Colomoncagua, Honduras et Guatemala City, Guatemala."
+		},
+		{
+			"text": "Equivalence obtenu par L'Uruguay, pour le diplôme de médecin et pour le diplôme de pédiatre (Universidad de la Republica)"
+		},
+		{
+			"text": "Certificat de capacitation en réanimation pédiatrique avancée - Pediatrics life support, American Acadamy of Pediatrics"
+		},
+		{
+			"text": "Ouverture d'un cabinet privé"
+		},
+		{
+			"text": "Médecin conseil de l'ambassade de France a Montevideo"
+		},
+		{
+			"text": "Engagée par l'assurance Blue Cross d'Uruguay"
+		},
+		{
+			"text": "Engagée par l'assurance SUMUM d'Uruguay"
+		},
+		{
+			"text": "Medical Advisor TOTAL Uruguay"
+		},
+		{
+			"text": "Diplôme d'homéopathie, Laboratoire BOIRON, France"
+		},
+		{
+			"text": "Spécialité de Pneumo pédiatrie, Université de Nice, France"
+		},
+		{
+			"text": "Spécialité de Médecin de Famille, Montréal, Canada"
+		}
+	],
+	"work":[
+		{
+			"text": "Effet de l'ACYCLOVIR dans le traitement de la varicelle et du zona chez les enfants immunodéprimés, Institut Gustave Roussy, France"
+		},
+		{
+			"text": "Coordination de la première étude européenne de la phase I et II du vaccin varicelle-zona chez les enfants atteint d'immunodéficience, Institut Gustave Roussy, France  (travail présenté durant la réunion annuelle de la Société International d'Oncologie Pédiatrique : Barcelone)"
+		},
+		{
+			"text": "Doctorat: Pathologie rencontrée, travail et organisation d'un camp de refugiés a Colomoncagua, Honduras."
+		},
+		{
+			"text": "Coordination et supervision d'événements médicaux a TOTAL Uruguay de 2000 a 2016."
+		}
+	],
+	"mentors": "Mes mentors",
+	"mentors_list": [
+		{
+			"title": "Professeur Bernard Caille ancien chef de service en pédiatrie, GROUPE HOSPITALIER PITIÉ - SALPETRIERE",
+			"text": "Les qualités et l'expérience de Mme Catherine PINELLI lui on valu d'être rapidement désignée pour occuper l'un de ces postes. (Pédiatre d'une des deux maternités). Le travail qu'elle a effectue a la Maternité a été particulièrement apprécié"
+		},
+		{
+			"title": "Docteur Daniel LEROY, Chef de Service de Pédiatrie, CENTRE HOSPITALIER DE COMPIEGNE.",
+			"text": "Mme PINELLI a travaillé non seulement avec assiduité et efficacité mais elle a fait preuve aussi de qualités humaine indispensables a la fonction de pédiatre. Je n'ai donc eu qu'a me louer de sa collaboration. Elle a laisse un très bon souvenir, aussi bien dans ma mémoire que celle de mes collaborateurs."
+		},
+		{
+			"title": "Professeur Jean Rey, Ministre de l'Education nationale, de la recherche et de la technologie. (Ancien directeur de l'enseignement de Pédiatrie).",
+			"text": "Madame PINELLI a fait preuve de toutes les qualités médicales et humaines que l'on peut attendre d'un pédiatre en formation. Mon avis est extrêmement favorable"
+		},
+		{
+			"title": "Docteur Jean LAVAUD, responsable du Service Mobile d'Urgence et de Réanimation Pédiatrique de l'Hôpital Necker-Enfants Malades (SAMU de Paris).",
+			"text": "Ce médecin nous a donné toute satisfaction dans son travail; la qualité de sa participation au service d'urgence mobile pédiatrique et son dévouement rend bien compte de son intérêt pour cet aspect tres particulier de la pédiatrie mais indispensable pour sa pratique."
+		},
+		{
+			"title": "Professeur Jean LEMERLE, Directeur de l'Ecole de Cancérologie, Institut Gustave-Roussy.",
+			"text": "Madame Catherine PINELLI, Pédiatre, a travaillé a mi temps a l'étude d'un vaccin anti-varicelle chez l'enfant atteint d'affection maligne et immunodéprimé par chimiothérapie. Ce travail a été mené a son terme et ses conclusions on été présentées a la réunion annuelle de la Société International d'Oncologie Pédiatrique a Barcelone. Elle a également travaille sur l'effet de l'Acyclovir, toujours dans le cadre de la varicelle et du zona chez les enfants immunodéprimés.
+Le travail, la rigueur scientifique et la ponctualité de Madame PINELLI on été appréciés pendant toute la période de son activité dans le service."
+		},
+		{
+			"title": "Docteur Sophie LEMERLE, Professeur Adjoint Pédiatrie, CENTRE HOSPITALIER INTERCOMMUNAL DE CRETEIL.",
+			"text": "Mme le Docteur Catherine PINELLI a coordonné l'essai de phase I et Ii du vaccin varicelle chez l'enfant immunodéprimé. C'était la première étude européenne. Elle a mené son travail avec beaucoup de compétence et de conscience professionnelle dans une population d'enfant éprouvés par le cancer."
+		}
+		,
+		{
+			"title": "Professeur Jean CANET, Service de Réanimation néonatale, CENTRE HOSPITALIER DE CRETEIL.",
+			"text": "Madame Catherine PINELLI ayant déjà acquis des connaissances et une pratique antérieure, elle s'est adaptée rapidement aux contraintes de ce service et a fait preuve de dévouement, d'équilibre et de disponibilité"
+		},
+		{
+			"title": "Docteur Olivier MAUREL, Médecin Sans Frontières.",
+			"text": "Le Docteur Catherine PINELLI a été officiellement mandatée par notre association pour effectuer une mission en qualité de médecin volontaire. Elle a occupé le post de coordinatrice médical du camp de réfugiés salvadoriens (8000 personnes) a Colomoncaguas, Honduras."
+		},
+		{
+			"title": "Docteur Xavier EMMANUELLI, Président, co-fondateur de Médecins Sans Frontières",
+			"text": "Je certifie que Madame Catherine PINELLI, a occupé avec compétences et dévouement le poste de Médecin Sans Frontières. Je recommande, Madame Catherine PINELLI, pour sa qualité professionnelle et la loyauté de son engagement."
+		},
+		{
+			"title": "Professeur F. SEBAG,  Chef de Service Pédiatrie, CENTRE HOSPITALIER DE CANNES",
+			"text": "Je certifie que Madame PINELLI , a eu des rapport confraternels excellents avec le service."
+		},
+		{
+			"title": "Dr. Osvaldo Bello, Département d'Urgence Pédiatrique",
+			"text": "Le Docteur Catherine Pinelli a démontré une assiduité pour la spécialité et une bonne intégration a l'équipe de soins du service, assistant en plus aux réunions scientifiques."
+		}
+	],
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": "",
+	"search4": ""
+}
+
